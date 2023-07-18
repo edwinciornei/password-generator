@@ -1,4 +1,4 @@
-# password_generator
+# password-generator
 Python Simple Password Generator
 
 The verification conditions are:
